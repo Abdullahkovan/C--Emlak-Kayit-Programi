@@ -1,0 +1,23 @@
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.exe.config
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.exe
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.pdb
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Form1.resources
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Properties.Resources.resources
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.exe
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.pdb
+C:\Users\USER\Desktop\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Form2.resources
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.exe.config
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.exe
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.pdb
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.exe
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.pdb
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Form1.resources
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Form2.resources
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak_kayıt.Properties.Resources.resources
+C:\Users\USER\Desktop\2. sene 1. dönem\görsel programlama ödevler\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\emlak kayıt\emlak kayıt\bin\Debug\emlak kayıt.exe.config
+C:\Users\USER\Desktop\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.exe
+C:\Users\USER\Desktop\emlak kayıt\emlak kayıt\obj\Debug\emlak kayıt.pdb
